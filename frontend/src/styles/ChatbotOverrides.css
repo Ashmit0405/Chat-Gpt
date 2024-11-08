@@ -1,0 +1,12 @@
+.react-chatbot-kit-user-chat-message-container {
+    display: flex !important;
+    justify-content: flex-end !important;
+    margin: 15px 0 !important;
+  }
+  
+  .react-chatbot-kit-chat-bot-message-container {
+    display: flex !important;
+    justify-content: flex-start !important;
+    margin: 15px 0 !important;
+  }
+  
